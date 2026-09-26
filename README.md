@@ -1,0 +1,2 @@
+# JYPProgram_docompare
+一个寻找重复文件的python程序
